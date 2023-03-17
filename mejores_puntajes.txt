@@ -1,0 +1,5 @@
+cande 300
+ruben 170
+gabriel 150
+more 120
+juli 110
